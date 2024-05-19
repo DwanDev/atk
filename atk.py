@@ -5,7 +5,7 @@ from scapy.all import *
 
 # Cấu hình điểm truy cập giả mạo
 SSID = 'hacker vietnam'  # SSID của điểm truy cập giả mạo
-INTERFACE = 'wlan0mon'  # Giao diện mạng
+INTERFACE = 'wlan0'  # Giao diện mạng
 CHANNEL = 6  # Kênh phát sóng
 
 # Cấu hình IP và DHCP
